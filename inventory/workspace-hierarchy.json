@@ -1,0 +1,3201 @@
+{
+  "snapshot": "2026-11-16",
+  "tree": [
+    {
+      "id": "he",
+      "code": "HE",
+      "kind": "Room",
+      "name": "Hatchery Electronics",
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1018.HEIC",
+        "IMG_1019.HEIC"
+      ],
+      "notes": "Cabinet run, left to right: Soldering Station, Zone I, Zone II, Zone III, Zone IV (IMG_1018/IMG_1019).",
+      "proposed_items_here": 0,
+      "proposed_items_total": 271,
+      "children": [
+        {
+          "id": "ss",
+          "code": "SS",
+          "kind": "Station",
+          "name": "Soldering Station",
+          "front_label": null,
+          "observed_state": null,
+          "identification_confidence": "high",
+          "source_images": [
+            "IMG_1022.HEIC",
+            "IMG_1047.HEIC"
+          ],
+          "notes": "HUSKY workbench with standing shelf, pegboard, two drawers.",
+          "proposed_items_here": 0,
+          "proposed_items_total": 46,
+          "children": [
+            {
+              "id": "ss-workbench",
+              "code": "SS-BENCH",
+              "kind": "Bench",
+              "name": "Workbench top",
+              "front_label": null,
+              "observed_state": null,
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1047.HEIC",
+                "IMG_1022.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 8,
+              "proposed_items_total": 8,
+              "children": []
+            },
+            {
+              "id": "ss-shelf",
+              "code": "SS-SHELF",
+              "kind": "Shelf unit",
+              "name": "Standing shelf",
+              "front_label": null,
+              "observed_state": null,
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1022.HEIC",
+                "IMG_1047.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 0,
+              "proposed_items_total": 10,
+              "children": [
+                {
+                  "id": "ss-shelf-upper",
+                  "code": "SS-SH-UP",
+                  "kind": "Shelf",
+                  "name": "Upper shelf",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1022.HEIC",
+                    "IMG_1047.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 7,
+                  "proposed_items_total": 7,
+                  "children": []
+                },
+                {
+                  "id": "ss-shelf-lower",
+                  "code": "SS-SH-LO",
+                  "kind": "Shelf",
+                  "name": "Lower shelf (tip cleaners)",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1022.HEIC",
+                    "IMG_1047.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 3,
+                  "proposed_items_total": 3,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "ss-pegboard",
+              "code": "SS-PEG",
+              "kind": "Wall",
+              "name": "Pegboard and wall holders",
+              "front_label": null,
+              "observed_state": null,
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1022.HEIC",
+                "IMG_1047.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 4,
+              "proposed_items_total": 4,
+              "children": []
+            },
+            {
+              "id": "ss-d1",
+              "code": "SS-D1",
+              "kind": "Drawer",
+              "name": "Drawer 1 — Soldering Iron | Cords and Adapters | Microscope Lenses",
+              "front_label": "SOLDERING IRON | CORDS AND ADAPTERS | MICROSCOPE LENSES",
+              "observed_state": "open in IMG_1022 and IMG_1048",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1048.HEIC",
+                "IMG_1022.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 13,
+              "proposed_items_total": 13,
+              "children": []
+            },
+            {
+              "id": "ss-d2",
+              "code": "SS-D2",
+              "kind": "Drawer",
+              "name": "Drawer 2 — Wago Connectors | Solder | Banana Test Leads",
+              "front_label": "WAGO CONNECTORS | SOLDER | BANANA TEST LEADS",
+              "observed_state": "open in IMG_1049; label read from IMG_1047",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1049.HEIC",
+                "IMG_1047.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 11,
+              "proposed_items_total": 11,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "z1",
+          "code": "Z1",
+          "kind": "Zone",
+          "name": "Zone I",
+          "front_label": null,
+          "observed_state": null,
+          "identification_confidence": "high",
+          "source_images": [
+            "IMG_1018.HEIC",
+            "IMG_1019.HEIC",
+            "IMG_1028.HEIC"
+          ],
+          "notes": "3 drawers (verified from the drawer fronts), not 4. Combination lock on top.",
+          "proposed_items_here": 0,
+          "proposed_items_total": 71,
+          "children": [
+            {
+              "id": "z1-top",
+              "code": "Z1-TOP",
+              "kind": "Surface",
+              "name": "Cabinet top",
+              "front_label": null,
+              "observed_state": null,
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1018.HEIC",
+                "IMG_1028.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 4,
+              "proposed_items_total": 4,
+              "children": []
+            },
+            {
+              "id": "z1-d1",
+              "code": "Z1-D1",
+              "kind": "Drawer",
+              "name": "Drawer 1 — Sensors & Input | Motors",
+              "front_label": "Sensors & Input | Motors",
+              "observed_state": "open in IMG_1023/IMG_1024; red/pink/white bin grid",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1024.HEIC",
+                "IMG_1023.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 20,
+              "proposed_items_total": 36,
+              "children": [
+                {
+                  "id": "z1-d1-bin-4pin",
+                  "code": "Z1-D1-4PIN",
+                  "kind": "Bin",
+                  "name": "4 pin button",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-a1g",
+                  "code": "Z1-D1-A1G",
+                  "kind": "Bin",
+                  "name": "A1_g",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-a1k",
+                  "code": "Z1-D1-A1K",
+                  "kind": "Bin",
+                  "name": "A1_k",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-a2f",
+                  "code": "Z1-D1-A2F",
+                  "kind": "Bin",
+                  "name": "A2_f",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-a2i",
+                  "code": "Z1-D1-A2I",
+                  "kind": "Bin",
+                  "name": "A2_i",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-a2j",
+                  "code": "Z1-D1-A2J",
+                  "kind": "Bin",
+                  "name": "A2_j",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-a2m",
+                  "code": "Z1-D1-A2M",
+                  "kind": "Bin",
+                  "name": "A2_m",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-a4i",
+                  "code": "Z1-D1-A4I",
+                  "kind": "Bin",
+                  "name": "A4_i",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-a5e",
+                  "code": "Z1-D1-A5E",
+                  "kind": "Bin",
+                  "name": "A5_e",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-bluetooth",
+                  "code": "Z1-D1-BT",
+                  "kind": "Bin",
+                  "name": "Bluetooth",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-hydrogen",
+                  "code": "Z1-D1-GAS",
+                  "kind": "Bin",
+                  "name": "Hydrogen Sensors",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-water",
+                  "code": "Z1-D1-H2O",
+                  "kind": "Bin",
+                  "name": "Water Sensors",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-light",
+                  "code": "Z1-D1-LDR",
+                  "kind": "Bin",
+                  "name": "Light Sensors",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-ir-motion",
+                  "code": "Z1-D1-PIR",
+                  "kind": "Bin",
+                  "name": "IR Motion Sensors",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-usb-ttl",
+                  "code": "Z1-D1-TTL",
+                  "kind": "Bin",
+                  "name": "USB to TTL Serial Adapter",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d1-bin-vibration",
+                  "code": "Z1-D1-VIB",
+                  "kind": "Bin",
+                  "name": "Vibrating Mini Motors",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1024.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "z1-d2",
+              "code": "Z1-D2",
+              "kind": "Drawer",
+              "name": "Drawer 2 — Misc. Components | Kits",
+              "front_label": "Misc. Components | Kits",
+              "observed_state": "open in IMG_1025; rows of labeled black organizer cases",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1025.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 4,
+              "proposed_items_total": 17,
+              "children": [
+                {
+                  "id": "z1-d2-case-crickit",
+                  "code": "Z1-D2-CRICKIT",
+                  "kind": "Case",
+                  "name": "CRICKIT",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-din",
+                  "code": "Z1-D2-DIN",
+                  "kind": "Case",
+                  "name": "DIN CLIPS",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-displays",
+                  "code": "Z1-D2-DISP",
+                  "kind": "Case",
+                  "name": "DISPLAYS",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-fans",
+                  "code": "Z1-D2-FANS",
+                  "kind": "Case",
+                  "name": "FANS",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-tub-microbit",
+                  "code": "Z1-D2-MICROBIT",
+                  "kind": "Tub",
+                  "name": "MICROBIT",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-power",
+                  "code": "Z1-D2-PWR",
+                  "kind": "Case",
+                  "name": "Power Components",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-resistors-1",
+                  "code": "Z1-D2-RES1",
+                  "kind": "Case",
+                  "name": "Resistors (case 1)",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-resistors-2",
+                  "code": "Z1-D2-RES2",
+                  "kind": "Case",
+                  "name": "Resistors (case 2)",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-microsd",
+                  "code": "Z1-D2-SD",
+                  "kind": "Case",
+                  "name": "MICRO SD & USB",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-sensors",
+                  "code": "Z1-D2-SENS",
+                  "kind": "Case",
+                  "name": "SENSORS",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-servo-arms",
+                  "code": "Z1-D2-SERVO",
+                  "kind": "Case",
+                  "name": "SERVO ARMS & GEARS",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-steppers",
+                  "code": "Z1-D2-STEP",
+                  "kind": "Case",
+                  "name": "STEPPER MOTORS",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d2-case-switches",
+                  "code": "Z1-D2-SW",
+                  "kind": "Case",
+                  "name": "SWITCHES & BUTTONS",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1025.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "z1-d3",
+              "code": "Z1-D3",
+              "kind": "Drawer",
+              "name": "Drawer 3 — Microcontrollers | Variable Power Supplies | Misc. Components",
+              "front_label": "Microcontrollers | Variable Power Supplies | Misc. Components",
+              "observed_state": "open in IMG_1026/IMG_1027; deep drawer with divider",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1027.HEIC",
+                "IMG_1026.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 7,
+              "proposed_items_total": 14,
+              "children": [
+                {
+                  "id": "z1-d3-case-arduino",
+                  "code": "Z1-D3-ARD",
+                  "kind": "Case",
+                  "name": "Arduino Microcontrollers",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1027.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d3-case-breadboards",
+                  "code": "Z1-D3-BB",
+                  "kind": "Case",
+                  "name": "Breadboards",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1027.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d3-case-bluefruit",
+                  "code": "Z1-D3-CPB",
+                  "kind": "Case",
+                  "name": "Circuit Python Bluefruit",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1027.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d3-case-heatshrink",
+                  "code": "Z1-D3-HS",
+                  "kind": "Case",
+                  "name": "Heat Shrink Tubing",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1027.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d3-case-picos",
+                  "code": "Z1-D3-PICO",
+                  "kind": "Case",
+                  "name": "Raspberry Pi Picos",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1027.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d3-case-resistors",
+                  "code": "Z1-D3-RES",
+                  "kind": "Case",
+                  "name": "Resistors",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1027.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z1-d3-case-rpi",
+                  "code": "Z1-D3-RPI",
+                  "kind": "Case",
+                  "name": "Raspberry PI",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1027.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "z2",
+          "code": "Z2",
+          "kind": "Zone",
+          "name": "Zone II",
+          "front_label": null,
+          "observed_state": null,
+          "identification_confidence": "high",
+          "source_images": [
+            "IMG_1028.HEIC",
+            "IMG_1018.HEIC"
+          ],
+          "notes": "5 drawers, verified from drawer fronts in IMG_1028.",
+          "proposed_items_here": 0,
+          "proposed_items_total": 71,
+          "children": [
+            {
+              "id": "z2-top",
+              "code": "Z2-TOP",
+              "kind": "Surface",
+              "name": "Cabinet top",
+              "front_label": null,
+              "observed_state": null,
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1028.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 4,
+              "proposed_items_total": 4,
+              "children": []
+            },
+            {
+              "id": "z2-d1",
+              "code": "Z2-D1",
+              "kind": "Drawer",
+              "name": "Drawer 1 — Breadboards | Capacitors | Headers | Proto Shields | Relays | Resistors | Transistors",
+              "front_label": "Breadboards | Capacitors | Headers | Proto Shields | Relays | Resistors | Transistors",
+              "observed_state": "open in IMG_1029; 3 sections (bins / resistor bags / breadboards)",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1029.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 10,
+              "proposed_items_total": 19,
+              "children": [
+                {
+                  "id": "z2-d1-bin-a2b",
+                  "code": "Z2-D1-A2B",
+                  "kind": "Bin",
+                  "name": "A2_b",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d1-bin-a2j",
+                  "code": "Z2-D1-A2J",
+                  "kind": "Bin",
+                  "name": "A2_j",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d1-bin-a3b",
+                  "code": "Z2-D1-A3B",
+                  "kind": "Bin",
+                  "name": "A3_b",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d1-bin-a3f",
+                  "code": "Z2-D1-A3F",
+                  "kind": "Bin",
+                  "name": "A3_f",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d1-bin-a3i",
+                  "code": "Z2-D1-A3I",
+                  "kind": "Bin",
+                  "name": "A3_i",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d1-bin-a4g",
+                  "code": "Z2-D1-A4G",
+                  "kind": "Bin",
+                  "name": "A4_g",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d1-bin-relays-a",
+                  "code": "Z2-D1-RLY1",
+                  "kind": "Bin",
+                  "name": "Relays (yellow bin)",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d1-bin-relays-b",
+                  "code": "Z2-D1-RLY2",
+                  "kind": "Bin",
+                  "name": "Relays (red bin)",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d1-bin-transistors",
+                  "code": "Z2-D1-TRN",
+                  "kind": "Bin",
+                  "name": "transistors",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1029.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "z2-d2",
+              "code": "Z2-D2",
+              "kind": "Drawer",
+              "name": "Drawer 2 — Jumper Wires | Connectors",
+              "front_label": "Jumper Wires | Connectors",
+              "observed_state": "open in IMG_1030",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1030.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 9,
+              "proposed_items_total": 16,
+              "children": [
+                {
+                  "id": "z2-d2-bin-a1b",
+                  "code": "Z2-D2-A1B",
+                  "kind": "Bin",
+                  "name": "A1_b",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1030.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d2-bin-a1c",
+                  "code": "Z2-D2-A1C",
+                  "kind": "Bin",
+                  "name": "A1_c",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1030.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d2-bin-a1d",
+                  "code": "Z2-D2-A1D",
+                  "kind": "Bin",
+                  "name": "A1_d",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1030.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d2-bin-a1e",
+                  "code": "Z2-D2-A1E",
+                  "kind": "Bin",
+                  "name": "A1_e",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1030.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d2-bin-a3c",
+                  "code": "Z2-D2-A3C",
+                  "kind": "Bin",
+                  "name": "A3_c",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1030.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d2-bin-a3j",
+                  "code": "Z2-D2-A3J",
+                  "kind": "Bin",
+                  "name": "A3_j",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1030.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z2-d2-bin-a3n",
+                  "code": "Z2-D2-A3N",
+                  "kind": "Bin",
+                  "name": "A3_n",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1030.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "z2-d3",
+              "code": "Z2-D3",
+              "kind": "Drawer",
+              "name": "Drawer 3 — Wire | Conductive Paint & Thread",
+              "front_label": "Wire | Conductive Paint & Thread",
+              "observed_state": "open in IMG_1031 (textile case closed) and IMG_1032 (case open)",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1031.HEIC",
+                "IMG_1032.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 14,
+              "proposed_items_total": 22,
+              "children": [
+                {
+                  "id": "z2-d3-case-textiles",
+                  "code": "Z2-D3-TEX",
+                  "kind": "Case",
+                  "name": "Electronics For Textiles",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1032.HEIC",
+                    "IMG_1031.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 8,
+                  "proposed_items_total": 8,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "z2-d4",
+              "code": "Z2-D4",
+              "kind": "Drawer",
+              "name": "Drawer 4 — Precision Screwdrivers | Tweezers | Wire Cutters & Strippers",
+              "front_label": "Precision Screwdrivers | Tweezers | Wire Cutters & Strippers",
+              "observed_state": "open in IMG_1033; 3 lengthwise sections",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1033.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 5,
+              "proposed_items_total": 5,
+              "children": []
+            },
+            {
+              "id": "z2-d5",
+              "code": "Z2-D5",
+              "kind": "Drawer",
+              "name": "Drawer 5 — Misc. Batteries | Oscilloscope",
+              "front_label": "Misc. Batteries | Oscilloscope",
+              "observed_state": "open in IMG_1034 (photo taken from directly above; partly obscured)",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1034.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 5,
+              "proposed_items_total": 5,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "z3",
+          "code": "Z3",
+          "kind": "Zone",
+          "name": "Zone III (Electronics)",
+          "front_label": null,
+          "observed_state": null,
+          "identification_confidence": "high",
+          "source_images": [
+            "IMG_1035.HEIC"
+          ],
+          "notes": "4 drawers, verified from drawer fronts in IMG_1035. Top decal reads 'ZONE III ELECTRONICS'.",
+          "proposed_items_here": 0,
+          "proposed_items_total": 41,
+          "children": [
+            {
+              "id": "z3-top",
+              "code": "Z3-TOP",
+              "kind": "Surface",
+              "name": "Cabinet top",
+              "front_label": null,
+              "observed_state": null,
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1035.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 1,
+              "proposed_items_total": 1,
+              "children": []
+            },
+            {
+              "id": "z3-d1",
+              "code": "Z3-D1",
+              "kind": "Drawer",
+              "name": "Drawer 1 — LEDs",
+              "front_label": "LEDs",
+              "observed_state": "open in IMG_1036; open grid mat, mixed loose items",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1036.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 14,
+              "proposed_items_total": 17,
+              "children": [
+                {
+                  "id": "z3-d1-bin-a1h",
+                  "code": "Z3-D1-A1H",
+                  "kind": "Bin",
+                  "name": "A1_h",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1036.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z3-d1-bin-a1i",
+                  "code": "Z3-D1-A1I",
+                  "kind": "Bin",
+                  "name": "A1_i",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1036.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z3-d1-bin-a5g",
+                  "code": "Z3-D1-A5G",
+                  "kind": "Bin",
+                  "name": "A5_g",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1036.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "z3-d2",
+              "code": "Z3-D2",
+              "kind": "Drawer",
+              "name": "Drawer 2 — LCD | Video Displays | E-Paper Displays",
+              "front_label": "LCD | Video Displays | E-Paper Displays",
+              "observed_state": "open in IMG_1037; 6 rows",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1037.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 8,
+              "proposed_items_total": 9,
+              "children": [
+                {
+                  "id": "z3-d2-bin-a4d",
+                  "code": "Z3-D2-A4D",
+                  "kind": "Bin",
+                  "name": "A4_d",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1037.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "z3-d3",
+              "code": "Z3-D3",
+              "kind": "Drawer",
+              "name": "Drawer 3 — LEDs | Training Kits",
+              "front_label": "LEDs | Training Kits",
+              "observed_state": "open in IMG_1038; deep, 3 sections",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1038.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 8,
+              "proposed_items_total": 8,
+              "children": []
+            },
+            {
+              "id": "z3-d4",
+              "code": "Z3-D4",
+              "kind": "Drawer",
+              "name": "Drawer 4 — Soldering Irons | Magnifiers",
+              "front_label": "Soldering Irons | Magnifiers",
+              "observed_state": "open in IMG_1039 — NEEDS CONFIRMATION: photo is upside-down and could be Zone IV Drawer 5 ('Soldering Irons'); contents (boxed magnifiers) match this drawer's label",
+              "identification_confidence": "medium",
+              "source_images": [
+                "IMG_1039.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 6,
+              "proposed_items_total": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "z4",
+          "code": "Z4",
+          "kind": "Zone",
+          "name": "Zone IV",
+          "front_label": null,
+          "observed_state": null,
+          "identification_confidence": "high",
+          "source_images": [
+            "IMG_1040.HEIC",
+            "IMG_1019.HEIC"
+          ],
+          "notes": "5 drawers, verified from drawer fronts in IMG_1040.",
+          "proposed_items_here": 0,
+          "proposed_items_total": 42,
+          "children": [
+            {
+              "id": "z4-top",
+              "code": "Z4-TOP",
+              "kind": "Surface",
+              "name": "Cabinet top",
+              "front_label": null,
+              "observed_state": null,
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1040.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 3,
+              "proposed_items_total": 3,
+              "children": []
+            },
+            {
+              "id": "z4-d1",
+              "code": "Z4-D1",
+              "kind": "Drawer",
+              "name": "Drawer 1 — Audio Components | Batteries & Battery Holders",
+              "front_label": "Audio Components | Batteries & Battery Holders",
+              "observed_state": "open in IMG_1041",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1041.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 10,
+              "proposed_items_total": 13,
+              "children": [
+                {
+                  "id": "z4-d1-bin-a3o",
+                  "code": "Z4-D1-A3O",
+                  "kind": "Bin",
+                  "name": "A3_o",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1041.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z4-d1-bin-a5j",
+                  "code": "Z4-D1-A5J",
+                  "kind": "Bin",
+                  "name": "A5_j",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1041.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                },
+                {
+                  "id": "z4-d1-bin-buzzers",
+                  "code": "Z4-D1-BUZ",
+                  "kind": "Bin",
+                  "name": "Buzzers",
+                  "front_label": null,
+                  "observed_state": null,
+                  "identification_confidence": "high",
+                  "source_images": [
+                    "IMG_1041.HEIC"
+                  ],
+                  "notes": null,
+                  "proposed_items_here": 1,
+                  "proposed_items_total": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "z4-d2",
+              "code": "Z4-D2",
+              "kind": "Drawer",
+              "name": "Drawer 2 — Multimeters | Power Supplies",
+              "front_label": "Multimeters | Power Supplies",
+              "observed_state": "open in IMG_1042",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1042.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 8,
+              "proposed_items_total": 8,
+              "children": []
+            },
+            {
+              "id": "z4-d3",
+              "code": "Z4-D3",
+              "kind": "Drawer",
+              "name": "Drawer 3 — Solder | Soldering Tools",
+              "front_label": "Solder | Soldering Tools",
+              "observed_state": "open in IMG_1043",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1043.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 14,
+              "proposed_items_total": 14,
+              "children": []
+            },
+            {
+              "id": "z4-d4",
+              "code": "Z4-D4",
+              "kind": "Drawer",
+              "name": "Drawer 4 — Silicon Mats | Soldering Clamps",
+              "front_label": "Silicon Mats | Soldering Clamps",
+              "observed_state": "open in IMG_1044",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1044.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 4,
+              "proposed_items_total": 4,
+              "children": []
+            },
+            {
+              "id": "z4-d5",
+              "code": "Z4-D5",
+              "kind": "Drawer",
+              "name": "Drawer 5 — Soldering Irons",
+              "front_label": "Soldering Irons",
+              "observed_state": "closed in every photo — contents not seen",
+              "identification_confidence": "high",
+              "source_images": [
+                "IMG_1040.HEIC"
+              ],
+              "notes": null,
+              "proposed_items_here": 0,
+              "proposed_items_total": 0,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "id": "he",
+      "parent_id": null,
+      "code": "HE",
+      "kind": "Room",
+      "name": "Hatchery Electronics",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1018.HEIC",
+        "IMG_1019.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "ss",
+      "parent_id": "he",
+      "code": "SS",
+      "kind": "Station",
+      "name": "Soldering Station",
+      "order": 1,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1022.HEIC",
+        "IMG_1047.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "ss-workbench",
+      "parent_id": "ss",
+      "code": "SS-BENCH",
+      "kind": "Bench",
+      "name": "Workbench top",
+      "order": 1,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1047.HEIC",
+        "IMG_1022.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "ss-shelf",
+      "parent_id": "ss",
+      "code": "SS-SHELF",
+      "kind": "Shelf unit",
+      "name": "Standing shelf",
+      "order": 2,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1022.HEIC",
+        "IMG_1047.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "ss-shelf-upper",
+      "parent_id": "ss-shelf",
+      "code": "SS-SH-UP",
+      "kind": "Shelf",
+      "name": "Upper shelf",
+      "order": 1,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1022.HEIC",
+        "IMG_1047.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "ss-shelf-lower",
+      "parent_id": "ss-shelf",
+      "code": "SS-SH-LO",
+      "kind": "Shelf",
+      "name": "Lower shelf (tip cleaners)",
+      "order": 2,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1022.HEIC",
+        "IMG_1047.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "ss-pegboard",
+      "parent_id": "ss",
+      "code": "SS-PEG",
+      "kind": "Wall",
+      "name": "Pegboard and wall holders",
+      "order": 3,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1022.HEIC",
+        "IMG_1047.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "ss-d1",
+      "parent_id": "ss",
+      "code": "SS-D1",
+      "kind": "Drawer",
+      "name": "Drawer 1 — Soldering Iron | Cords and Adapters | Microscope Lenses",
+      "order": 4,
+      "front_label": "SOLDERING IRON | CORDS AND ADAPTERS | MICROSCOPE LENSES",
+      "observed_state": "open in IMG_1022 and IMG_1048",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1048.HEIC",
+        "IMG_1022.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-18",
+          "kind": "label_mismatch",
+          "description": "Label says 'Microscope Lenses' but only prepared slides were seen; no lenses visible.",
+          "state": "partially off-label",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1048.HEIC"
+          ]
+        },
+        {
+          "id": "op-19",
+          "kind": "underutilized",
+          "description": "Open mat space in the left-middle and center of the drawer.",
+          "state": "partly empty",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1048.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ss-d2",
+      "parent_id": "ss",
+      "code": "SS-D2",
+      "kind": "Drawer",
+      "name": "Drawer 2 — Wago Connectors | Solder | Banana Test Leads",
+      "order": 5,
+      "front_label": "WAGO CONNECTORS | SOLDER | BANANA TEST LEADS",
+      "observed_state": "open in IMG_1049; label read from IMG_1047",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1049.HEIC",
+        "IMG_1047.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1",
+      "parent_id": "he",
+      "code": "Z1",
+      "kind": "Zone",
+      "name": "Zone I",
+      "order": 2,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1018.HEIC",
+        "IMG_1019.HEIC",
+        "IMG_1028.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-top",
+      "parent_id": "z1",
+      "code": "Z1-TOP",
+      "kind": "Surface",
+      "name": "Cabinet top",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1018.HEIC",
+        "IMG_1028.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1",
+      "parent_id": "z1",
+      "code": "Z1-D1",
+      "kind": "Drawer",
+      "name": "Drawer 1 — Sensors & Input | Motors",
+      "order": 1,
+      "front_label": "Sensors & Input | Motors",
+      "observed_state": "open in IMG_1023/IMG_1024; red/pink/white bin grid",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC",
+        "IMG_1023.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-04",
+          "kind": "duplicate_bin_codes",
+          "description": "Bin codes like A1_g, A2_j, A2_i are reused in other drawers (A2_j also in Zone II Drawer 1). Codes alone don't identify a bin.",
+          "state": "labeling inconsistency",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1024.HEIC",
+            "IMG_1029.HEIC"
+          ]
+        },
+        {
+          "id": "op-05",
+          "kind": "unsorted",
+          "description": "Left third of the drawer holds a keyboard, network cable and loose cords that don't match 'Sensors & Input | Motors'.",
+          "state": "partially off-label",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1024.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z1-d1-bin-4pin",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-4PIN",
+      "kind": "Bin",
+      "name": "4 pin button",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-bluetooth",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-BT",
+      "kind": "Bin",
+      "name": "Bluetooth",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-a4i",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-A4I",
+      "kind": "Bin",
+      "name": "A4_i",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-ir-motion",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-PIR",
+      "kind": "Bin",
+      "name": "IR Motion Sensors",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-a2i",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-A2I",
+      "kind": "Bin",
+      "name": "A2_i",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-a1k",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-A1K",
+      "kind": "Bin",
+      "name": "A1_k",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-a2m",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-A2M",
+      "kind": "Bin",
+      "name": "A2_m",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-a2f",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-A2F",
+      "kind": "Bin",
+      "name": "A2_f",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-a2j",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-A2J",
+      "kind": "Bin",
+      "name": "A2_j",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-hydrogen",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-GAS",
+      "kind": "Bin",
+      "name": "Hydrogen Sensors",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-light",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-LDR",
+      "kind": "Bin",
+      "name": "Light Sensors",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-water",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-H2O",
+      "kind": "Bin",
+      "name": "Water Sensors",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-vibration",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-VIB",
+      "kind": "Bin",
+      "name": "Vibrating Mini Motors",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-a5e",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-A5E",
+      "kind": "Bin",
+      "name": "A5_e",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-usb-ttl",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-TTL",
+      "kind": "Bin",
+      "name": "USB to TTL Serial Adapter",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d1-bin-a1g",
+      "parent_id": "z1-d1",
+      "code": "Z1-D1-A1G",
+      "kind": "Bin",
+      "name": "A1_g",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1024.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2",
+      "parent_id": "z1",
+      "code": "Z1-D2",
+      "kind": "Drawer",
+      "name": "Drawer 2 — Misc. Components | Kits",
+      "order": 2,
+      "front_label": "Misc. Components | Kits",
+      "observed_state": "open in IMG_1025; rows of labeled black organizer cases",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-21",
+          "kind": "unlabeled_containers",
+          "description": "Clear starter-kit boxes (orange latches) are unlabeled; contents mixed.",
+          "state": "unlabeled",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1025.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z1-d2-case-resistors-1",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-RES1",
+      "kind": "Case",
+      "name": "Resistors (case 1)",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-resistors-2",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-RES2",
+      "kind": "Case",
+      "name": "Resistors (case 2)",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-crickit",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-CRICKIT",
+      "kind": "Case",
+      "name": "CRICKIT",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-fans",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-FANS",
+      "kind": "Case",
+      "name": "FANS",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-din",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-DIN",
+      "kind": "Case",
+      "name": "DIN CLIPS",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-microsd",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-SD",
+      "kind": "Case",
+      "name": "MICRO SD & USB",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-switches",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-SW",
+      "kind": "Case",
+      "name": "SWITCHES & BUTTONS",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-servo-arms",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-SERVO",
+      "kind": "Case",
+      "name": "SERVO ARMS & GEARS",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-sensors",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-SENS",
+      "kind": "Case",
+      "name": "SENSORS",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-displays",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-DISP",
+      "kind": "Case",
+      "name": "DISPLAYS",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-power",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-PWR",
+      "kind": "Case",
+      "name": "Power Components",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-case-steppers",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-STEP",
+      "kind": "Case",
+      "name": "STEPPER MOTORS",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d2-tub-microbit",
+      "parent_id": "z1-d2",
+      "code": "Z1-D2-MICROBIT",
+      "kind": "Tub",
+      "name": "MICROBIT",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1025.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d3",
+      "parent_id": "z1",
+      "code": "Z1-D3",
+      "kind": "Drawer",
+      "name": "Drawer 3 — Microcontrollers | Variable Power Supplies | Misc. Components",
+      "order": 3,
+      "front_label": "Microcontrollers | Variable Power Supplies | Misc. Components",
+      "observed_state": "open in IMG_1026/IMG_1027; deep drawer with divider",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1027.HEIC",
+        "IMG_1026.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-01",
+          "kind": "unlabeled_containers",
+          "description": "Four black organizer cases stored upright with blank yellow label holders.",
+          "state": "contents unknown",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1026.HEIC",
+            "IMG_1027.HEIC"
+          ]
+        },
+        {
+          "id": "op-02",
+          "kind": "personal_item",
+          "description": "One upright case carries a person's name on masking tape — may be personal property rather than shared stock.",
+          "state": "contents unknown",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1027.HEIC"
+          ]
+        },
+        {
+          "id": "op-03",
+          "kind": "unlabeled_containers",
+          "description": "Flat clear organizer (blue base) at the back, unlabeled.",
+          "state": "contents not visible",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1026.HEIC",
+            "IMG_1027.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z1-d3-case-resistors",
+      "parent_id": "z1-d3",
+      "code": "Z1-D3-RES",
+      "kind": "Case",
+      "name": "Resistors",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1027.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d3-case-heatshrink",
+      "parent_id": "z1-d3",
+      "code": "Z1-D3-HS",
+      "kind": "Case",
+      "name": "Heat Shrink Tubing",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1027.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d3-case-breadboards",
+      "parent_id": "z1-d3",
+      "code": "Z1-D3-BB",
+      "kind": "Case",
+      "name": "Breadboards",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1027.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d3-case-bluefruit",
+      "parent_id": "z1-d3",
+      "code": "Z1-D3-CPB",
+      "kind": "Case",
+      "name": "Circuit Python Bluefruit",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1027.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d3-case-arduino",
+      "parent_id": "z1-d3",
+      "code": "Z1-D3-ARD",
+      "kind": "Case",
+      "name": "Arduino Microcontrollers",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1027.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d3-case-picos",
+      "parent_id": "z1-d3",
+      "code": "Z1-D3-PICO",
+      "kind": "Case",
+      "name": "Raspberry Pi Picos",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1027.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z1-d3-case-rpi",
+      "parent_id": "z1-d3",
+      "code": "Z1-D3-RPI",
+      "kind": "Case",
+      "name": "Raspberry PI",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1027.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2",
+      "parent_id": "he",
+      "code": "Z2",
+      "kind": "Zone",
+      "name": "Zone II",
+      "order": 3,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1028.HEIC",
+        "IMG_1018.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-top",
+      "parent_id": "z2",
+      "code": "Z2-TOP",
+      "kind": "Surface",
+      "name": "Cabinet top",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1028.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1",
+      "parent_id": "z2",
+      "code": "Z2-D1",
+      "kind": "Drawer",
+      "name": "Drawer 1 — Breadboards | Capacitors | Headers | Proto Shields | Relays | Resistors | Transistors",
+      "order": 1,
+      "front_label": "Breadboards | Capacitors | Headers | Proto Shields | Relays | Resistors | Transistors",
+      "observed_state": "open in IMG_1029; 3 sections (bins / resistor bags / breadboards)",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-relays-a",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-RLY1",
+      "kind": "Bin",
+      "name": "Relays (yellow bin)",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-relays-b",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-RLY2",
+      "kind": "Bin",
+      "name": "Relays (red bin)",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-a2j",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-A2J",
+      "kind": "Bin",
+      "name": "A2_j",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-transistors",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-TRN",
+      "kind": "Bin",
+      "name": "transistors",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-a3b",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-A3B",
+      "kind": "Bin",
+      "name": "A3_b",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-a3i",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-A3I",
+      "kind": "Bin",
+      "name": "A3_i",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-a3f",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-A3F",
+      "kind": "Bin",
+      "name": "A3_f",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-a4g",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-A4G",
+      "kind": "Bin",
+      "name": "A4_g",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d1-bin-a2b",
+      "parent_id": "z2-d1",
+      "code": "Z2-D1-A2B",
+      "kind": "Bin",
+      "name": "A2_b",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1029.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d2",
+      "parent_id": "z2",
+      "code": "Z2-D2",
+      "kind": "Drawer",
+      "name": "Drawer 2 — Jumper Wires | Connectors",
+      "order": 2,
+      "front_label": "Jumper Wires | Connectors",
+      "observed_state": "open in IMG_1030",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1030.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-06",
+          "kind": "unsorted",
+          "description": "Middle section is a large tangle of loose jumper wires and alligator leads with no bins.",
+          "state": "disorganized",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1030.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z2-d2-bin-a1c",
+      "parent_id": "z2-d2",
+      "code": "Z2-D2-A1C",
+      "kind": "Bin",
+      "name": "A1_c",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1030.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d2-bin-a1d",
+      "parent_id": "z2-d2",
+      "code": "Z2-D2-A1D",
+      "kind": "Bin",
+      "name": "A1_d",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1030.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d2-bin-a1e",
+      "parent_id": "z2-d2",
+      "code": "Z2-D2-A1E",
+      "kind": "Bin",
+      "name": "A1_e",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1030.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d2-bin-a3c",
+      "parent_id": "z2-d2",
+      "code": "Z2-D2-A3C",
+      "kind": "Bin",
+      "name": "A3_c",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1030.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d2-bin-a3n",
+      "parent_id": "z2-d2",
+      "code": "Z2-D2-A3N",
+      "kind": "Bin",
+      "name": "A3_n",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1030.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d2-bin-a3j",
+      "parent_id": "z2-d2",
+      "code": "Z2-D2-A3J",
+      "kind": "Bin",
+      "name": "A3_j",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1030.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d2-bin-a1b",
+      "parent_id": "z2-d2",
+      "code": "Z2-D2-A1B",
+      "kind": "Bin",
+      "name": "A1_b",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1030.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d3",
+      "parent_id": "z2",
+      "code": "Z2-D3",
+      "kind": "Drawer",
+      "name": "Drawer 3 — Wire | Conductive Paint & Thread",
+      "order": 3,
+      "front_label": "Wire | Conductive Paint & Thread",
+      "observed_state": "open in IMG_1031 (textile case closed) and IMG_1032 (case open)",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1031.HEIC",
+        "IMG_1032.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d3-case-textiles",
+      "parent_id": "z2-d3",
+      "code": "Z2-D3-TEX",
+      "kind": "Case",
+      "name": "Electronics For Textiles",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1032.HEIC",
+        "IMG_1031.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-20",
+          "kind": "underutilized",
+          "description": "Top row, third cell of the textile case's wooden divider is empty.",
+          "state": "visually empty",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1032.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z2-d4",
+      "parent_id": "z2",
+      "code": "Z2-D4",
+      "kind": "Drawer",
+      "name": "Drawer 4 — Precision Screwdrivers | Tweezers | Wire Cutters & Strippers",
+      "order": 4,
+      "front_label": "Precision Screwdrivers | Tweezers | Wire Cutters & Strippers",
+      "observed_state": "open in IMG_1033; 3 lengthwise sections",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1033.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z2-d5",
+      "parent_id": "z2",
+      "code": "Z2-D5",
+      "kind": "Drawer",
+      "name": "Drawer 5 — Misc. Batteries | Oscilloscope",
+      "order": 5,
+      "front_label": "Misc. Batteries | Oscilloscope",
+      "observed_state": "open in IMG_1034 (photo taken from directly above; partly obscured)",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1034.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-07",
+          "kind": "underutilized",
+          "description": "A black soft case labeled 'BATTERIES' fills the front half; its contents and the 9 cases behind it weren't visible.",
+          "state": "contents not seen",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1034.HEIC"
+          ]
+        },
+        {
+          "id": "op-08",
+          "kind": "unlabeled_containers",
+          "description": "Nine black organizer cases whose printed labels can't be read in the photo.",
+          "state": "labels not legible",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1034.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z3",
+      "parent_id": "he",
+      "code": "Z3",
+      "kind": "Zone",
+      "name": "Zone III (Electronics)",
+      "order": 4,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1035.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z3-top",
+      "parent_id": "z3",
+      "code": "Z3-TOP",
+      "kind": "Surface",
+      "name": "Cabinet top",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1035.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z3-d1",
+      "parent_id": "z3",
+      "code": "Z3-D1",
+      "kind": "Drawer",
+      "name": "Drawer 1 — LEDs",
+      "order": 1,
+      "front_label": "LEDs",
+      "observed_state": "open in IMG_1036; open grid mat, mixed loose items",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1036.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-09",
+          "kind": "underutilized",
+          "description": "Large areas of empty grid mat in the middle and lower right; many items lie loose rather than in bins.",
+          "state": "partly empty",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1036.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z3-d1-bin-a1h",
+      "parent_id": "z3-d1",
+      "code": "Z3-D1-A1H",
+      "kind": "Bin",
+      "name": "A1_h",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1036.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z3-d1-bin-a1i",
+      "parent_id": "z3-d1",
+      "code": "Z3-D1-A1I",
+      "kind": "Bin",
+      "name": "A1_i",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1036.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z3-d1-bin-a5g",
+      "parent_id": "z3-d1",
+      "code": "Z3-D1-A5G",
+      "kind": "Bin",
+      "name": "A5_g",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1036.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z3-d2",
+      "parent_id": "z3",
+      "code": "Z3-D2",
+      "kind": "Drawer",
+      "name": "Drawer 2 — LCD | Video Displays | E-Paper Displays",
+      "order": 2,
+      "front_label": "LCD | Video Displays | E-Paper Displays",
+      "observed_state": "open in IMG_1037; 6 rows",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1037.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-10",
+          "kind": "underutilized",
+          "description": "Bottom right of the drawer (beside the 7-segment bins) and the last row are mostly empty.",
+          "state": "partly empty",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1037.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z3-d2-bin-a4d",
+      "parent_id": "z3-d2",
+      "code": "Z3-D2-A4D",
+      "kind": "Bin",
+      "name": "A4_d",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1037.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z3-d3",
+      "parent_id": "z3",
+      "code": "Z3-D3",
+      "kind": "Drawer",
+      "name": "Drawer 3 — LEDs | Training Kits",
+      "order": 3,
+      "front_label": "LEDs | Training Kits",
+      "observed_state": "open in IMG_1038; deep, 3 sections",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1038.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-11",
+          "kind": "unsorted",
+          "description": "Front section is crowded with ESD bags, cables and bins; contents can't be identified.",
+          "state": "disorganized",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1038.HEIC"
+          ]
+        },
+        {
+          "id": "op-12",
+          "kind": "unlabeled_containers",
+          "description": "Taped, unlabeled cardboard box in the back section.",
+          "state": "contents unknown",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1038.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z3-d4",
+      "parent_id": "z3",
+      "code": "Z3-D4",
+      "kind": "Drawer",
+      "name": "Drawer 4 — Soldering Irons | Magnifiers",
+      "order": 4,
+      "front_label": "Soldering Irons | Magnifiers",
+      "observed_state": "open in IMG_1039 — NEEDS CONFIRMATION: photo is upside-down and could be Zone IV Drawer 5 ('Soldering Irons'); contents (boxed magnifiers) match this drawer's label",
+      "identification_confidence": "medium",
+      "source_images": [
+        "IMG_1039.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z4",
+      "parent_id": "he",
+      "code": "Z4",
+      "kind": "Zone",
+      "name": "Zone IV",
+      "order": 5,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1040.HEIC",
+        "IMG_1019.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z4-top",
+      "parent_id": "z4",
+      "code": "Z4-TOP",
+      "kind": "Surface",
+      "name": "Cabinet top",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1040.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z4-d1",
+      "parent_id": "z4",
+      "code": "Z4-D1",
+      "kind": "Drawer",
+      "name": "Drawer 1 — Audio Components | Batteries & Battery Holders",
+      "order": 1,
+      "front_label": "Audio Components | Batteries & Battery Holders",
+      "observed_state": "open in IMG_1041",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1041.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-13",
+          "kind": "unsorted",
+          "description": "Battery holders, audio cables and USB cables are mixed across bins; one bin labeled 'Buzzers' is mostly hidden.",
+          "state": "disorganized",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1041.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z4-d1-bin-buzzers",
+      "parent_id": "z4-d1",
+      "code": "Z4-D1-BUZ",
+      "kind": "Bin",
+      "name": "Buzzers",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1041.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z4-d1-bin-a3o",
+      "parent_id": "z4-d1",
+      "code": "Z4-D1-A3O",
+      "kind": "Bin",
+      "name": "A3_o",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1041.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z4-d1-bin-a5j",
+      "parent_id": "z4-d1",
+      "code": "Z4-D1-A5J",
+      "kind": "Bin",
+      "name": "A5_j",
+      "order": 0,
+      "front_label": null,
+      "observed_state": null,
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1041.HEIC"
+      ],
+      "opportunities": []
+    },
+    {
+      "id": "z4-d2",
+      "parent_id": "z4",
+      "code": "Z4-D2",
+      "kind": "Drawer",
+      "name": "Drawer 2 — Multimeters | Power Supplies",
+      "order": 2,
+      "front_label": "Multimeters | Power Supplies",
+      "observed_state": "open in IMG_1042",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1042.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-14",
+          "kind": "unsorted",
+          "description": "Front half is a pile of loose wall adapters and cords.",
+          "state": "disorganized",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1042.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z4-d3",
+      "parent_id": "z4",
+      "code": "Z4-D3",
+      "kind": "Drawer",
+      "name": "Drawer 3 — Solder | Soldering Tools",
+      "order": 3,
+      "front_label": "Solder | Soldering Tools",
+      "observed_state": "open in IMG_1043",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1043.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-15",
+          "kind": "underutilized",
+          "description": "Right-hand section has a large open area of mat between the flux packs and the solder spool.",
+          "state": "partly empty",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1043.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z4-d4",
+      "parent_id": "z4",
+      "code": "Z4-D4",
+      "kind": "Drawer",
+      "name": "Drawer 4 — Silicon Mats | Soldering Clamps",
+      "order": 4,
+      "front_label": "Silicon Mats | Soldering Clamps",
+      "observed_state": "open in IMG_1044",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1044.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-16",
+          "kind": "underutilized",
+          "description": "Lower strip of both halves has free mat space; drawer holds only mats and clamps.",
+          "state": "partly empty",
+          "needs_confirmation": false,
+          "source_images": [
+            "IMG_1044.HEIC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z4-d5",
+      "parent_id": "z4",
+      "code": "Z4-D5",
+      "kind": "Drawer",
+      "name": "Drawer 5 — Soldering Irons",
+      "order": 5,
+      "front_label": "Soldering Irons",
+      "observed_state": "closed in every photo — contents not seen",
+      "identification_confidence": "high",
+      "source_images": [
+        "IMG_1040.HEIC"
+      ],
+      "opportunities": [
+        {
+          "id": "op-17",
+          "kind": "not_photographed",
+          "description": "Drawer 'Soldering Irons' was never opened in the photo set.",
+          "state": "contents unknown",
+          "needs_confirmation": true,
+          "source_images": [
+            "IMG_1040.HEIC"
+          ]
+        }
+      ]
+    }
+  ]
+}

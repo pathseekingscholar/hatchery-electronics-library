@@ -1,0 +1,17 @@
+{
+  "_note": "Items standing on top of the cabinets (on the blue cutting mats). These are open-surface items and may move often.",
+  "items": [
+    { "id": "z1-top-001", "location": "z1-top", "type": "equipment", "category": "Tools & Misc", "name": "RIGOL digital oscilloscope", "manufacturer": "RIGOL", "label_text": "RIGOL (model text not legible)", "confidence": "high", "photos": ["IMG_1028", "IMG_1018"], "qty_visible": 1 },
+    { "id": "z1-top-002", "location": "z1-top", "type": "equipment", "category": "Power", "name": "Bench DC power supply (teal, digital display)", "confidence": "high", "photos": ["IMG_1028", "IMG_1018"], "qty_visible": 1 },
+    { "id": "z1-top-003", "location": "z1-top", "type": "consumable", "category": "Cables & Wire", "name": "Heat shrink tubing assortment (clear compartment boxes)", "description": "Clear boxes of colored heat shrink pieces next to the oscilloscope.", "confidence": "medium", "photos": ["IMG_1028", "IMG_1018"], "qty_visible": 2 },
+    { "id": "z1-top-004", "location": "z1-top", "type": "equipment", "category": "Tools & Misc", "name": "Computer monitor (HP)", "confidence": "high", "photos": ["IMG_1018"], "qty_visible": 1 },
+    { "id": "z2-top-001", "location": "z2-top", "type": "tool", "category": "Tools & Misc", "name": "Butane torch / heat tools on stands (black)", "description": "Two black cylindrical tools standing upright, one with a red trigger. Type not confirmed (butane torch or heat gun).", "confidence": "low", "photos": ["IMG_1028"], "qty_visible": 2 },
+    { "id": "z2-top-002", "location": "z2-top", "type": "container", "category": "Tools & Misc", "name": "Clear compartment box (contents not identified)", "confidence": "medium", "photos": ["IMG_1028"], "qty_visible": 1, "contents_unknown": true },
+    { "id": "z2-top-003", "location": "z2-top", "type": "equipment", "category": "Audio", "name": "Portable Bluetooth speaker (JBL, gray)", "manufacturer": "JBL", "confidence": "medium", "photos": ["IMG_1028", "IMG_1035"], "qty_visible": 1 },
+    { "id": "z2-top-004", "location": "z2-top", "type": "equipment", "category": "LEDs & Lighting", "name": "'Ripples' interactive light sculpture exhibit (sign + green foam piece)", "label_text": "RIPPLES — a light sculpture that reacts to you", "description": "Display piece, not lending inventory. Recorded so it isn't mistaken for stock.", "confidence": "high", "catalog_hidden": "Exhibit, not lending inventory", "photos": ["IMG_1028", "IMG_1035"], "qty_visible": 1 },
+    { "id": "z3-top-001", "location": "z3-top", "type": "equipment", "category": "Tools & Misc", "name": "ULINE paper roll dispenser", "manufacturer": "ULINE", "confidence": "high", "photos": ["IMG_1035", "IMG_1040"], "qty_visible": 1 },
+    { "id": "z4-top-001", "location": "z4-top", "type": "equipment", "category": "Tools & Misc", "name": "Computer monitor (HP L1906-style)", "confidence": "high", "photos": ["IMG_1035", "IMG_1040"], "qty_visible": 1 },
+    { "id": "z4-top-002", "location": "z4-top", "type": "component", "category": "Cables & Wire", "name": "Blue USB cable (loose)", "confidence": "high", "photos": ["IMG_1040"], "qty_visible": 1 },
+    { "id": "z4-top-003", "location": "z4-top", "type": "container", "category": "Tools & Misc", "name": "Electronics recycling box (wooden)", "label_text": "ELECTRONICS RECYCLING", "confidence": "high", "photos": ["IMG_1040", "IMG_1019"], "qty_visible": 1 }
+  ]
+}

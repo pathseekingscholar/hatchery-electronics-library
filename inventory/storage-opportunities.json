@@ -1,0 +1,432 @@
+{
+  "snapshot": "2026-11-16",
+  "opportunities": [
+    {
+      "id": "op-01",
+      "location": "z1-d3",
+      "kind": "unlabeled_containers",
+      "description": "Four black organizer cases stored upright with blank yellow label holders.",
+      "state": "contents unknown",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1026",
+        "IMG_1027"
+      ],
+      "location_code": "Z1-D3",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone I",
+        "Drawer 3 — Microcontrollers | Variable Power Supplies | Misc. Components"
+      ],
+      "source_images": [
+        "IMG_1026.HEIC",
+        "IMG_1027.HEIC"
+      ]
+    },
+    {
+      "id": "op-02",
+      "location": "z1-d3",
+      "kind": "personal_item",
+      "description": "One upright case carries a person's name on masking tape — may be personal property rather than shared stock.",
+      "state": "contents unknown",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1027"
+      ],
+      "location_code": "Z1-D3",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone I",
+        "Drawer 3 — Microcontrollers | Variable Power Supplies | Misc. Components"
+      ],
+      "source_images": [
+        "IMG_1027.HEIC"
+      ]
+    },
+    {
+      "id": "op-03",
+      "location": "z1-d3",
+      "kind": "unlabeled_containers",
+      "description": "Flat clear organizer (blue base) at the back, unlabeled.",
+      "state": "contents not visible",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1026",
+        "IMG_1027"
+      ],
+      "location_code": "Z1-D3",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone I",
+        "Drawer 3 — Microcontrollers | Variable Power Supplies | Misc. Components"
+      ],
+      "source_images": [
+        "IMG_1026.HEIC",
+        "IMG_1027.HEIC"
+      ]
+    },
+    {
+      "id": "op-04",
+      "location": "z1-d1",
+      "kind": "duplicate_bin_codes",
+      "description": "Bin codes like A1_g, A2_j, A2_i are reused in other drawers (A2_j also in Zone II Drawer 1). Codes alone don't identify a bin.",
+      "state": "labeling inconsistency",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1024",
+        "IMG_1029"
+      ],
+      "location_code": "Z1-D1",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone I",
+        "Drawer 1 — Sensors & Input | Motors"
+      ],
+      "source_images": [
+        "IMG_1024.HEIC",
+        "IMG_1029.HEIC"
+      ]
+    },
+    {
+      "id": "op-05",
+      "location": "z1-d1",
+      "kind": "unsorted",
+      "description": "Left third of the drawer holds a keyboard, network cable and loose cords that don't match 'Sensors & Input | Motors'.",
+      "state": "partially off-label",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1024"
+      ],
+      "location_code": "Z1-D1",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone I",
+        "Drawer 1 — Sensors & Input | Motors"
+      ],
+      "source_images": [
+        "IMG_1024.HEIC"
+      ]
+    },
+    {
+      "id": "op-06",
+      "location": "z2-d2",
+      "kind": "unsorted",
+      "description": "Middle section is a large tangle of loose jumper wires and alligator leads with no bins.",
+      "state": "disorganized",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1030"
+      ],
+      "location_code": "Z2-D2",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone II",
+        "Drawer 2 — Jumper Wires | Connectors"
+      ],
+      "source_images": [
+        "IMG_1030.HEIC"
+      ]
+    },
+    {
+      "id": "op-07",
+      "location": "z2-d5",
+      "kind": "underutilized",
+      "description": "A black soft case labeled 'BATTERIES' fills the front half; its contents and the 9 cases behind it weren't visible.",
+      "state": "contents not seen",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1034"
+      ],
+      "location_code": "Z2-D5",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone II",
+        "Drawer 5 — Misc. Batteries | Oscilloscope"
+      ],
+      "source_images": [
+        "IMG_1034.HEIC"
+      ]
+    },
+    {
+      "id": "op-08",
+      "location": "z2-d5",
+      "kind": "unlabeled_containers",
+      "description": "Nine black organizer cases whose printed labels can't be read in the photo.",
+      "state": "labels not legible",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1034"
+      ],
+      "location_code": "Z2-D5",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone II",
+        "Drawer 5 — Misc. Batteries | Oscilloscope"
+      ],
+      "source_images": [
+        "IMG_1034.HEIC"
+      ]
+    },
+    {
+      "id": "op-09",
+      "location": "z3-d1",
+      "kind": "underutilized",
+      "description": "Large areas of empty grid mat in the middle and lower right; many items lie loose rather than in bins.",
+      "state": "partly empty",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1036"
+      ],
+      "location_code": "Z3-D1",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone III (Electronics)",
+        "Drawer 1 — LEDs"
+      ],
+      "source_images": [
+        "IMG_1036.HEIC"
+      ]
+    },
+    {
+      "id": "op-10",
+      "location": "z3-d2",
+      "kind": "underutilized",
+      "description": "Bottom right of the drawer (beside the 7-segment bins) and the last row are mostly empty.",
+      "state": "partly empty",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1037"
+      ],
+      "location_code": "Z3-D2",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone III (Electronics)",
+        "Drawer 2 — LCD | Video Displays | E-Paper Displays"
+      ],
+      "source_images": [
+        "IMG_1037.HEIC"
+      ]
+    },
+    {
+      "id": "op-11",
+      "location": "z3-d3",
+      "kind": "unsorted",
+      "description": "Front section is crowded with ESD bags, cables and bins; contents can't be identified.",
+      "state": "disorganized",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1038"
+      ],
+      "location_code": "Z3-D3",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone III (Electronics)",
+        "Drawer 3 — LEDs | Training Kits"
+      ],
+      "source_images": [
+        "IMG_1038.HEIC"
+      ]
+    },
+    {
+      "id": "op-12",
+      "location": "z3-d3",
+      "kind": "unlabeled_containers",
+      "description": "Taped, unlabeled cardboard box in the back section.",
+      "state": "contents unknown",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1038"
+      ],
+      "location_code": "Z3-D3",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone III (Electronics)",
+        "Drawer 3 — LEDs | Training Kits"
+      ],
+      "source_images": [
+        "IMG_1038.HEIC"
+      ]
+    },
+    {
+      "id": "op-13",
+      "location": "z4-d1",
+      "kind": "unsorted",
+      "description": "Battery holders, audio cables and USB cables are mixed across bins; one bin labeled 'Buzzers' is mostly hidden.",
+      "state": "disorganized",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1041"
+      ],
+      "location_code": "Z4-D1",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone IV",
+        "Drawer 1 — Audio Components | Batteries & Battery Holders"
+      ],
+      "source_images": [
+        "IMG_1041.HEIC"
+      ]
+    },
+    {
+      "id": "op-14",
+      "location": "z4-d2",
+      "kind": "unsorted",
+      "description": "Front half is a pile of loose wall adapters and cords.",
+      "state": "disorganized",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1042"
+      ],
+      "location_code": "Z4-D2",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone IV",
+        "Drawer 2 — Multimeters | Power Supplies"
+      ],
+      "source_images": [
+        "IMG_1042.HEIC"
+      ]
+    },
+    {
+      "id": "op-15",
+      "location": "z4-d3",
+      "kind": "underutilized",
+      "description": "Right-hand section has a large open area of mat between the flux packs and the solder spool.",
+      "state": "partly empty",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1043"
+      ],
+      "location_code": "Z4-D3",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone IV",
+        "Drawer 3 — Solder | Soldering Tools"
+      ],
+      "source_images": [
+        "IMG_1043.HEIC"
+      ]
+    },
+    {
+      "id": "op-16",
+      "location": "z4-d4",
+      "kind": "underutilized",
+      "description": "Lower strip of both halves has free mat space; drawer holds only mats and clamps.",
+      "state": "partly empty",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1044"
+      ],
+      "location_code": "Z4-D4",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone IV",
+        "Drawer 4 — Silicon Mats | Soldering Clamps"
+      ],
+      "source_images": [
+        "IMG_1044.HEIC"
+      ]
+    },
+    {
+      "id": "op-17",
+      "location": "z4-d5",
+      "kind": "not_photographed",
+      "description": "Drawer 'Soldering Irons' was never opened in the photo set.",
+      "state": "contents unknown",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1040"
+      ],
+      "location_code": "Z4-D5",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone IV",
+        "Drawer 5 — Soldering Irons"
+      ],
+      "source_images": [
+        "IMG_1040.HEIC"
+      ]
+    },
+    {
+      "id": "op-18",
+      "location": "ss-d1",
+      "kind": "label_mismatch",
+      "description": "Label says 'Microscope Lenses' but only prepared slides were seen; no lenses visible.",
+      "state": "partially off-label",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1048"
+      ],
+      "location_code": "SS-D1",
+      "location_path": [
+        "Hatchery Electronics",
+        "Soldering Station",
+        "Drawer 1 — Soldering Iron | Cords and Adapters | Microscope Lenses"
+      ],
+      "source_images": [
+        "IMG_1048.HEIC"
+      ]
+    },
+    {
+      "id": "op-19",
+      "location": "ss-d1",
+      "kind": "underutilized",
+      "description": "Open mat space in the left-middle and center of the drawer.",
+      "state": "partly empty",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1048"
+      ],
+      "location_code": "SS-D1",
+      "location_path": [
+        "Hatchery Electronics",
+        "Soldering Station",
+        "Drawer 1 — Soldering Iron | Cords and Adapters | Microscope Lenses"
+      ],
+      "source_images": [
+        "IMG_1048.HEIC"
+      ]
+    },
+    {
+      "id": "op-20",
+      "location": "z2-d3-case-textiles",
+      "kind": "underutilized",
+      "description": "Top row, third cell of the textile case's wooden divider is empty.",
+      "state": "visually empty",
+      "needs_confirmation": false,
+      "photos": [
+        "IMG_1032"
+      ],
+      "location_code": "Z2-D3-TEX",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone II",
+        "Drawer 3 — Wire | Conductive Paint & Thread",
+        "Electronics For Textiles"
+      ],
+      "source_images": [
+        "IMG_1032.HEIC"
+      ]
+    },
+    {
+      "id": "op-21",
+      "location": "z1-d2",
+      "kind": "unlabeled_containers",
+      "description": "Clear starter-kit boxes (orange latches) are unlabeled; contents mixed.",
+      "state": "unlabeled",
+      "needs_confirmation": true,
+      "photos": [
+        "IMG_1025"
+      ],
+      "location_code": "Z1-D2",
+      "location_path": [
+        "Hatchery Electronics",
+        "Zone I",
+        "Drawer 2 — Misc. Components | Kits"
+      ],
+      "source_images": [
+        "IMG_1025.HEIC"
+      ]
+    }
+  ]
+}

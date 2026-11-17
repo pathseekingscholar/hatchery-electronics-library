@@ -1,0 +1,549 @@
+{
+  "snapshot": "2026-11-16",
+  "photo_count": 28,
+  "photos": [
+    {
+      "file": "IMG_1018.HEIC",
+      "web": "photos/web/IMG_1018.jpg",
+      "thumb": "photos/thumb/IMG_1018.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:33:27",
+      "primary_zone": "he",
+      "locations": [
+        "ss",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z1-top",
+        "z2-top",
+        "z3-top",
+        "z4-top"
+      ],
+      "viewpoint": "Wide overview of the cabinet run from the front-left",
+      "overlapping_photos": [
+        "IMG_1019.HEIC",
+        "IMG_1028.HEIC",
+        "IMG_1035.HEIC",
+        "IMG_1040.HEIC"
+      ],
+      "quality_and_limits": "Good; drawer-front labels legible at full resolution; small items on tops not identifiable",
+      "needs_confirmation": false,
+      "proposed_items_citing": 4
+    },
+    {
+      "file": "IMG_1019.HEIC",
+      "web": "photos/web/IMG_1019.jpg",
+      "thumb": "photos/thumb/IMG_1019.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:33:52",
+      "primary_zone": "he",
+      "locations": [
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z4-top"
+      ],
+      "viewpoint": "Wide overview of the cabinet run from the front-right",
+      "overlapping_photos": [
+        "IMG_1018.HEIC",
+        "IMG_1040.HEIC"
+      ],
+      "quality_and_limits": "Good; same scene as IMG_1018 from another angle",
+      "needs_confirmation": false,
+      "proposed_items_citing": 1
+    },
+    {
+      "file": "IMG_1022.HEIC",
+      "web": "photos/web/IMG_1022.jpg",
+      "thumb": "photos/thumb/IMG_1022.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:48:38",
+      "primary_zone": "ss",
+      "locations": [
+        "ss",
+        "ss-workbench",
+        "ss-shelf-upper",
+        "ss-shelf-lower",
+        "ss-pegboard",
+        "ss-d1"
+      ],
+      "viewpoint": "Front of soldering station, drawer 1 open, bench in use",
+      "overlapping_photos": [
+        "IMG_1047.HEIC",
+        "IMG_1048.HEIC"
+      ],
+      "quality_and_limits": "Good; bench is cluttered (taken 30 min before IMG_1047)",
+      "needs_confirmation": false,
+      "proposed_items_citing": 20
+    },
+    {
+      "file": "IMG_1023.HEIC",
+      "web": "photos/web/IMG_1023.jpg",
+      "thumb": "photos/thumb/IMG_1023.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:48:50",
+      "primary_zone": "z1",
+      "locations": [
+        "z1-d1"
+      ],
+      "viewpoint": "Zone I Drawer 1 open, angled from the side",
+      "overlapping_photos": [
+        "IMG_1024.HEIC"
+      ],
+      "quality_and_limits": "Good; superseded by the overhead IMG_1024 for detail",
+      "needs_confirmation": false,
+      "proposed_items_citing": 6
+    },
+    {
+      "file": "IMG_1024.HEIC",
+      "web": "photos/web/IMG_1024.jpg",
+      "thumb": "photos/thumb/IMG_1024.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:49:02",
+      "primary_zone": "z1",
+      "locations": [
+        "z1-d1"
+      ],
+      "viewpoint": "Zone I Drawer 1, overhead",
+      "overlapping_photos": [
+        "IMG_1023.HEIC"
+      ],
+      "quality_and_limits": "Very good; bin labels legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 36
+    },
+    {
+      "file": "IMG_1025.HEIC",
+      "web": "photos/web/IMG_1025.jpg",
+      "thumb": "photos/thumb/IMG_1025.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:49:10",
+      "primary_zone": "z1",
+      "locations": [
+        "z1-d2"
+      ],
+      "viewpoint": "Zone I Drawer 2, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Very good; case labels legible; case contents not visible (closed)",
+      "needs_confirmation": false,
+      "proposed_items_citing": 17
+    },
+    {
+      "file": "IMG_1026.HEIC",
+      "web": "photos/web/IMG_1026.jpg",
+      "thumb": "photos/thumb/IMG_1026.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:49:33",
+      "primary_zone": "z1",
+      "locations": [
+        "z1-d3"
+      ],
+      "viewpoint": "Zone I Drawer 3, overhead (wide)",
+      "overlapping_photos": [
+        "IMG_1027.HEIC"
+      ],
+      "quality_and_limits": "Good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 13
+    },
+    {
+      "file": "IMG_1027.HEIC",
+      "web": "photos/web/IMG_1027.jpg",
+      "thumb": "photos/thumb/IMG_1027.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:49:45",
+      "primary_zone": "z1",
+      "locations": [
+        "z1-d3"
+      ],
+      "viewpoint": "Zone I Drawer 3, overhead (closer)",
+      "overlapping_photos": [
+        "IMG_1026.HEIC"
+      ],
+      "quality_and_limits": "Very good; power supply model sticker legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 14
+    },
+    {
+      "file": "IMG_1028.HEIC",
+      "web": "photos/web/IMG_1028.jpg",
+      "thumb": "photos/thumb/IMG_1028.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:49:51",
+      "primary_zone": "z2",
+      "locations": [
+        "z2",
+        "z2-top",
+        "z1-top"
+      ],
+      "viewpoint": "Zone II cabinet front, drawers closed",
+      "overlapping_photos": [
+        "IMG_1018.HEIC",
+        "IMG_1035.HEIC"
+      ],
+      "quality_and_limits": "Very good; all 5 drawer labels legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 7
+    },
+    {
+      "file": "IMG_1029.HEIC",
+      "web": "photos/web/IMG_1029.jpg",
+      "thumb": "photos/thumb/IMG_1029.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:49:58",
+      "primary_zone": "z2",
+      "locations": [
+        "z2-d1"
+      ],
+      "viewpoint": "Zone II Drawer 1, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Very good; kit lids and some bag labels legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 19
+    },
+    {
+      "file": "IMG_1030.HEIC",
+      "web": "photos/web/IMG_1030.jpg",
+      "thumb": "photos/thumb/IMG_1030.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:50:06",
+      "primary_zone": "z2",
+      "locations": [
+        "z2-d2"
+      ],
+      "viewpoint": "Zone II Drawer 2, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Good; middle section is a tangle",
+      "needs_confirmation": false,
+      "proposed_items_citing": 16
+    },
+    {
+      "file": "IMG_1031.HEIC",
+      "web": "photos/web/IMG_1031.jpg",
+      "thumb": "photos/thumb/IMG_1031.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:50:15",
+      "primary_zone": "z2",
+      "locations": [
+        "z2-d3",
+        "z2-d3-case-textiles"
+      ],
+      "viewpoint": "Zone II Drawer 3, textile case closed",
+      "overlapping_photos": [
+        "IMG_1032.HEIC"
+      ],
+      "quality_and_limits": "Good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 15
+    },
+    {
+      "file": "IMG_1032.HEIC",
+      "web": "photos/web/IMG_1032.jpg",
+      "thumb": "photos/thumb/IMG_1032.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:50:51",
+      "primary_zone": "z2",
+      "locations": [
+        "z2-d3",
+        "z2-d3-case-textiles"
+      ],
+      "viewpoint": "Zone II Drawer 3, textile case open",
+      "overlapping_photos": [
+        "IMG_1031.HEIC"
+      ],
+      "quality_and_limits": "Good; case lid sheet partly legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 22
+    },
+    {
+      "file": "IMG_1033.HEIC",
+      "web": "photos/web/IMG_1033.jpg",
+      "thumb": "photos/thumb/IMG_1033.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:50:59",
+      "primary_zone": "z2",
+      "locations": [
+        "z2-d4"
+      ],
+      "viewpoint": "Zone II Drawer 4, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Very good; brand names on tools legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 5
+    },
+    {
+      "file": "IMG_1034.HEIC",
+      "web": "photos/web/IMG_1034.jpg",
+      "thumb": "photos/thumb/IMG_1034.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:51:07",
+      "primary_zone": "z2",
+      "locations": [
+        "z2-d5"
+      ],
+      "viewpoint": "Zone II Drawer 5, from directly above and partly from the side",
+      "overlapping_photos": [],
+      "quality_and_limits": "Fair; case labels too small to read, black cloth hides part of the drawer",
+      "needs_confirmation": false,
+      "proposed_items_citing": 5
+    },
+    {
+      "file": "IMG_1035.HEIC",
+      "web": "photos/web/IMG_1035.jpg",
+      "thumb": "photos/thumb/IMG_1035.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:51:13",
+      "primary_zone": "z3",
+      "locations": [
+        "z3",
+        "z3-top",
+        "z4-top",
+        "z2-top"
+      ],
+      "viewpoint": "Zone III cabinet front, drawers closed",
+      "overlapping_photos": [
+        "IMG_1028.HEIC",
+        "IMG_1040.HEIC"
+      ],
+      "quality_and_limits": "Very good; all 4 drawer labels legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 4
+    },
+    {
+      "file": "IMG_1036.HEIC",
+      "web": "photos/web/IMG_1036.jpg",
+      "thumb": "photos/thumb/IMG_1036.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:51:19",
+      "primary_zone": "z3",
+      "locations": [
+        "z3-d1"
+      ],
+      "viewpoint": "Zone III Drawer 1, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Very good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 17
+    },
+    {
+      "file": "IMG_1037.HEIC",
+      "web": "photos/web/IMG_1037.jpg",
+      "thumb": "photos/thumb/IMG_1037.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:51:34",
+      "primary_zone": "z3",
+      "locations": [
+        "z3-d2"
+      ],
+      "viewpoint": "Zone III Drawer 2, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 9
+    },
+    {
+      "file": "IMG_1038.HEIC",
+      "web": "photos/web/IMG_1038.jpg",
+      "thumb": "photos/thumb/IMG_1038.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:51:47",
+      "primary_zone": "z3",
+      "locations": [
+        "z3-d3"
+      ],
+      "viewpoint": "Zone III Drawer 3, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Fair; front section crowded",
+      "needs_confirmation": false,
+      "proposed_items_citing": 8
+    },
+    {
+      "file": "IMG_1039.HEIC",
+      "web": "photos/web/IMG_1039.jpg",
+      "thumb": "photos/thumb/IMG_1039.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:51:55",
+      "primary_zone": "z3",
+      "locations": [
+        "z3-d4"
+      ],
+      "viewpoint": "Deep drawer from behind/above (image upside-down)",
+      "overlapping_photos": [],
+      "quality_and_limits": "Good image, but drawer identity needs confirmation (Zone III D4 vs Zone IV D5)",
+      "needs_confirmation": true,
+      "proposed_items_citing": 6
+    },
+    {
+      "file": "IMG_1040.HEIC",
+      "web": "photos/web/IMG_1040.jpg",
+      "thumb": "photos/thumb/IMG_1040.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:52:43",
+      "primary_zone": "z4",
+      "locations": [
+        "z4",
+        "z4-top"
+      ],
+      "viewpoint": "Zone IV cabinet front, drawers closed",
+      "overlapping_photos": [
+        "IMG_1035.HEIC",
+        "IMG_1019.HEIC"
+      ],
+      "quality_and_limits": "Very good; all 5 drawer labels legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 4
+    },
+    {
+      "file": "IMG_1041.HEIC",
+      "web": "photos/web/IMG_1041.jpg",
+      "thumb": "photos/thumb/IMG_1041.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:52:50",
+      "primary_zone": "z4",
+      "locations": [
+        "z4-d1"
+      ],
+      "viewpoint": "Zone IV Drawer 1, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Good; crowded",
+      "needs_confirmation": false,
+      "proposed_items_citing": 13
+    },
+    {
+      "file": "IMG_1042.HEIC",
+      "web": "photos/web/IMG_1042.jpg",
+      "thumb": "photos/thumb/IMG_1042.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 19:52:58",
+      "primary_zone": "z4",
+      "locations": [
+        "z4-d2"
+      ],
+      "viewpoint": "Zone IV Drawer 2, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 8
+    },
+    {
+      "file": "IMG_1043.HEIC",
+      "web": "photos/web/IMG_1043.jpg",
+      "thumb": "photos/thumb/IMG_1043.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:53:05",
+      "primary_zone": "z4",
+      "locations": [
+        "z4-d3"
+      ],
+      "viewpoint": "Zone IV Drawer 3, overhead",
+      "overlapping_photos": [],
+      "quality_and_limits": "Very good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 14
+    },
+    {
+      "file": "IMG_1044.HEIC",
+      "web": "photos/web/IMG_1044.jpg",
+      "thumb": "photos/thumb/IMG_1044.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 19:53:11",
+      "primary_zone": "z4",
+      "locations": [
+        "z4-d4"
+      ],
+      "viewpoint": "Zone IV Drawer 4, overhead (Drawer 3 label visible above)",
+      "overlapping_photos": [],
+      "quality_and_limits": "Very good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 4
+    },
+    {
+      "file": "IMG_1047.HEIC",
+      "web": "photos/web/IMG_1047.jpg",
+      "thumb": "photos/thumb/IMG_1047.jpg",
+      "width": 4284,
+      "height": 5712,
+      "taken_at": "2026:11:16 20:18:42",
+      "primary_zone": "ss",
+      "locations": [
+        "ss",
+        "ss-workbench",
+        "ss-shelf-upper",
+        "ss-shelf-lower",
+        "ss-pegboard",
+        "ss-d1",
+        "ss-d2"
+      ],
+      "viewpoint": "Front of soldering station, drawers closed, bench tidied",
+      "overlapping_photos": [
+        "IMG_1022.HEIC"
+      ],
+      "quality_and_limits": "Very good; both drawer label strips legible",
+      "needs_confirmation": false,
+      "proposed_items_citing": 18
+    },
+    {
+      "file": "IMG_1048.HEIC",
+      "web": "photos/web/IMG_1048.jpg",
+      "thumb": "photos/thumb/IMG_1048.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 20:18:47",
+      "primary_zone": "ss",
+      "locations": [
+        "ss-d1"
+      ],
+      "viewpoint": "Soldering station Drawer 1, overhead",
+      "overlapping_photos": [
+        "IMG_1022.HEIC"
+      ],
+      "quality_and_limits": "Very good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 13
+    },
+    {
+      "file": "IMG_1049.HEIC",
+      "web": "photos/web/IMG_1049.jpg",
+      "thumb": "photos/thumb/IMG_1049.jpg",
+      "width": 5712,
+      "height": 4284,
+      "taken_at": "2026:11:16 20:18:52",
+      "primary_zone": "ss",
+      "locations": [
+        "ss-d2"
+      ],
+      "viewpoint": "Soldering station Drawer 2, overhead (Drawer 1 front labels above)",
+      "overlapping_photos": [],
+      "quality_and_limits": "Very good",
+      "needs_confirmation": false,
+      "proposed_items_citing": 11
+    }
+  ]
+}

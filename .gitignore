@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Codex/GitHub privacy and generated files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.secrets/
+node_modules/
+dist/
+dist-ssr/
+build/
+.next/
+out/
+coverage/
+.browser-profile/
+.chrome-cdp-profile/
+.qa-chrome-profile/
+.qa-chrome-profile-2/
+runs/
+videos_output/
+scripts_output/
+data/jobs/
+*.mp4
+*.mov
+*.avi
+*.mkv
+logs/
+Thumbs.db
+
+# Workspace photo evidence stays local and in PRIVATE storage (scripts/inventory/upload-evidence.mjs).
+# The photos show people and a name tag, so they are never committed or bundled into the public site.
+inventory/photos/
+
+# Review contact sheets (regenerate: python -I scripts/inventory/contact_sheets.py)
+inventory/review-sheets/

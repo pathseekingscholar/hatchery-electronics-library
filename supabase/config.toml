@@ -1,0 +1,6 @@
+# Minimal Supabase CLI config. `npx supabase link --project-ref <ref>` connects it to your project.
+project_id = "hatchery-electronics-library"
+
+[functions.suggest-part]
+# The function also checks staff membership itself via claim_ai_quota().
+verify_jwt = true
